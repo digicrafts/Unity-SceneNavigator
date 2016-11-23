@@ -58,8 +58,19 @@ We don't provide any support for this software. If you find any bugs, please cre
 
 Digicrafts [(www.digicrafts.com.hk)](https://www.digicrafts.com.hk)
 
- [Digicrafts on Unity Asset Store](http://u3d.as/qDQ)
- 
+[Digicrafts on Unity Asset Store](http://u3d.as/qDQ)
+
+___More products by author___
+
+[ColorBox](http://u3d.as/xzn)
+
+[Audio Manager](http://u3d.as/reJ)
+
+[Easy Wireframe Pro](http://u3d.as/xVj)
+
+[IAP  Manager](http://u3d.as/qDR)
+
+
 # License
 
 The MIT License (MIT)
